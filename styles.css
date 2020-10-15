@@ -1,0 +1,52 @@
+body{
+    background-image: url(https://images.hdqwalls.com/download/rocket-heading-towards-space-0c-2560x1440.jpg);
+    background-position: left;
+    background-attachment: fixed;
+}
+.container{
+    background-color: rgb(0, 0, 73);
+    /*my container margins*/
+    margin-top: 10%;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    margin-bottom: 10%;
+    /*my container padding*/
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+
+}
+.section-1{
+    /* my section for the launch and day*/
+    padding-top: 20px;
+    padding-left: 20px;
+    background-color: rgb(37, 70, 131);
+    color: blanchedalmond;
+}
+.section-2{
+    /* my section for all the infromaton pullled from the apis*/
+    padding-top: 20px;
+    padding-left: 20px;
+    color: blanchedalmond;
+}
+.section-3{
+    /* my section with a count down*/
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(37, 70, 131);
+    color: blanchedalmond;
+}
+
+footer{
+    position: sticky;
+    bottom: 0;
+    background-color: black;
+    padding-top: 5.5px;
+    padding-bottom: 5.5px;
+    color: blanchedalmond;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
